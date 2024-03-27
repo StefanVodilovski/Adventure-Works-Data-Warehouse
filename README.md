@@ -12,4 +12,4 @@ Detailed steps of the development are in the notebook in brief we have:
 * Design: Single fact table which measures the quantity and total price of a product sold, per customer, per shipping method on each day.
   -- 
 * Development: ETL steps using only SQL (with stored procedures)
-
+  --
